@@ -26,10 +26,6 @@
     flex-grow: 0;
 }
 
-.form-row {
-
-}
-
 .form-row-end {
     justify-content: flex-end;
 }
